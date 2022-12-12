@@ -10,7 +10,7 @@ body{
   font-family: 'Poppins';
 }
 .BG{
-  background: url(bg1.jpeg) no-repeat;
+  background: url(bg1.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   width: 100%;
